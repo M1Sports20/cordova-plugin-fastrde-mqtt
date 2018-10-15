@@ -1,4 +1,4 @@
-# cordova-plugin-fastrde-mqtt
+# cordova-plugin-fastrde-mqtt 
 #### mqtt.init(options)
 Initialize the mqtt-client with the given options.
 ```
